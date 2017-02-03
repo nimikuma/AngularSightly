@@ -1,0 +1,9 @@
+/home/nimish/AdobeCQ/angularApp/core/src/main/java/com/aem/community/core/servlets/SimpleServlet.java
+/home/nimish/AdobeCQ/angularApp/core/src/main/java/com/aem/community/core/listeners/SimpleResourceListener.java
+/home/nimish/AdobeCQ/angularApp/core/src/main/java/com/aem/community/core/models/HelloWorldModel.java
+/home/nimish/AdobeCQ/angularApp/core/src/main/java/com/aem/community/core/schedulers/SimpleScheduledTask.java
+/home/nimish/AdobeCQ/angularApp/core/src/main/java/com/aem/community/core/filters/LoggingFilter.java
+/home/nimish/AdobeCQ/angularApp/core/src/main/java/com/aem/community/core/package-info.java
+/home/nimish/AdobeCQ/angularApp/core/src/main/java/com/aem/community/core/AngularService.java
+/home/nimish/AdobeCQ/angularApp/core/src/main/java/com/aem/community/core/AngularServiceInterface.java
+/home/nimish/AdobeCQ/angularApp/core/src/main/java/com/aem/community/core/AngularInfo.java

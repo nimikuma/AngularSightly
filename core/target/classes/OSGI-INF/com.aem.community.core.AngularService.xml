@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component name="com.aem.community.core.AngularService">
+        <implementation class="com.aem.community.core.AngularService"/>
+        <service servicefactory="false">
+            <provide interface="com.aem.community.core.AngularServiceInterface"/>
+        </service>
+        <property name="service.vendor" value="Adobe"/>
+        <property name="service.pid" value="com.aem.community.core.AngularService"/>
+    </scr:component>
+</components>

@@ -1,0 +1,9 @@
+<div data-sly-use.fruitService="com.aem.community.core.AngularInfo">
+    <div data-sly-list.fruit="${fruitService.map}"> 
+        Slightly fruit
+        <ul> 
+            <li> name: ${fruit}</li>
+            <li> link:${fruitService.getMap[fruit]}</li>
+        </ul>
+    </div>
+</div>

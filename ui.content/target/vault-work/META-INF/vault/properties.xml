@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM62AngularApp - UI content</comment>
+<entry key="createdBy">nimish</entry>
+<entry key="name">angularApp.ui.content</entry>
+<entry key="created">2017-02-03T17:31:58.012+0530</entry>
+<entry key="groupId">AEM62AngularApp</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">AEM62AngularApp</entry>
+<entry key="description">UI content package for AEM62AngularApp</entry>
+<entry key="artifactId">angularApp.ui.content</entry>
+<entry key="path">/etc/packages/AEM62AngularApp/angularApp.ui.content.zip</entry>
+</properties>
